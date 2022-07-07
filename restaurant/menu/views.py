@@ -20,6 +20,9 @@ class FoodModelViewSet(ModelViewSet):
     # удаляем пустые категории из меню
     queryset = menu.exclude(id__in=empty_categories)
 
+    # если будут проблемы с миграцией, то надо закоментировать строчки 14-21 и разкоментировать 24 строку
+    # queryset = FoodCategory.objects.all()
+
     serializer_class = FoodListSerializer
 
     def get_serializer_class(self):

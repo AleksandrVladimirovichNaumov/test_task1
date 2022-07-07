@@ -2,7 +2,7 @@
 
 перед запуском проекта выполнить:
 1) pip install -r requirements.txt
-2) python3 manage.py migrate
+2) python3 manage.py migrate (если будет ругаться на несуществующую таблицу, то в menu/view.py надо закоментировать строчки 14-21 и разкоментировать 24 строку)
 3) python3 manage.py fill_db
 
 Описание задания

@@ -9,7 +9,7 @@ class Command(BaseCommand):
 
     def __init__(self):
         super().__init__()
-        self.json_path = 'menu/fixtures/'
+        self.json_path = 'restaurant/menu/fixtures/'
 
     def fill_table(self, model, json_file, category=None):
         """метод для добавления позиций меню из категории"""
