@@ -1,0 +1,32 @@
+[
+  {
+    "is_vegan": true,
+    "code": 1,
+    "internal_code": 1,
+    "name_ru": "чай",
+    "description_ru":"черный",
+    "description_en": "black",
+    "cost": "120.00"
+  },
+    {
+    "is_vegan": false,
+    "code": 1,
+    "internal_code": 2,
+    "name_ru": "кофе",
+    "description_ru":"с молоком",
+    "description_en": "with milk",
+    "description_ch": null,
+    "cost": "200.00"
+  },
+     {
+    "is_vegan": true,
+    "code": 1,
+    "internal_code": 3,
+    "name_ru": "водка",
+    "description_ru":"40%",
+    "description_en": "40%",
+    "description_ch": null,
+    "cost": "1500.00",
+    "is_publish": false
+  }
+]

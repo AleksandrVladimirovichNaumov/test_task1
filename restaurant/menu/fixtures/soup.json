@@ -1,0 +1,32 @@
+[
+  {
+    "is_vegan": false,
+    "code": 2,
+    "internal_code": 100000,
+    "name_ru": "борщ",
+    "description_ru":"из говядины",
+    "description_en": "100% beef",
+    "cost": "620.00"
+  },
+    {
+    "is_vegan": false,
+    "code": 3,
+    "internal_code": 200000,
+    "name_ru": "уха",
+    "description_ru":"лосось из балтийского моря",
+    "description_en": "salmon from baltic sea",
+    "description_ch": null,
+    "cost": "2000.00"
+  },
+     {
+    "is_vegan": true,
+    "code": 2,
+    "internal_code": 300000,
+    "name_ru": "томатный суп",
+    "description_ru":"из сочных помидор",
+    "description_en": "from fresh tomatoes",
+    "description_ch": null,
+    "cost": "900.00",
+    "is_publish": false
+  }
+]

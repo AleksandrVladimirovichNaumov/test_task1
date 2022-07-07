@@ -1,0 +1,32 @@
+[
+  {
+    "pk": 1,
+    "name_ru": "Закуски",
+    "name_en": "Snacks",
+    "order_id": 1
+  },
+  {
+    "pk": 2,
+    "name_ru": "Супы",
+    "name_en": "Soup",
+    "order_id": 2
+  },
+  {
+    "pk": 3,
+    "name_ru": "Основные блюда",
+    "name_en": "Main dishes",
+    "order_id": 3
+  },
+    {
+    "pk": 4,
+    "name_ru": "Десерты",
+    "name_en": "Desserts",
+    "order_id": 4
+  },
+      {
+    "pk": 5,
+    "name_ru": "Напитки",
+    "name_en": "Drinks",
+    "order_id": 5
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "is_vegan": false,
+    "code": 2,
+    "internal_code": 1000,
+    "name_ru": "котлета с макарошками",
+    "description_ru":"из говядины",
+    "description_en": "100% beef",
+    "cost": "620.00"
+  },
+    {
+    "is_vegan": false,
+    "code": 3,
+    "internal_code": 2000,
+    "name_ru": "лосось с рисом",
+    "description_ru":"из балтийского моря",
+    "description_en": "from baltic sea",
+    "description_ch": null,
+    "cost": "2000.00"
+  },
+     {
+    "is_vegan": true,
+    "code": 2,
+    "internal_code": 3000,
+    "name_ru": "шашлык",
+    "description_ru":"100% свинина",
+    "description_en": "from happy pig",
+    "description_ch": null,
+    "cost": "900.00",
+    "is_publish": false
+  }
+]

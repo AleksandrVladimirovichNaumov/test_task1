@@ -1,0 +1,33 @@
+[
+  {
+    "is_vegan": false,
+    "code": 2,
+    "internal_code": 10000,
+    "name_ru": "мороженка",
+    "description_ru": "говядина и свинина",
+    "description_en": "beef & ham",
+    "cost": "620.00",
+    "is_publish": false
+  },
+  {
+    "is_vegan": false,
+    "code": 3,
+    "internal_code": 20000,
+    "name_ru": "кофетка",
+    "description_ru": "с креветками",
+    "description_en": "with shrimps",
+    "cost": "2000.00",
+    "is_publish": false
+  },
+  {
+    "is_vegan": true,
+    "code": 2,
+    "internal_code": 30000,
+    "name_ru": "яблочко",
+    "description_ru": "только овощи",
+    "description_en": "only vegetables",
+    "description_ch": null,
+    "cost": "900.00",
+    "is_publish": false
+  }
+]
